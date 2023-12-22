@@ -7,7 +7,7 @@ A user-friendly currency converter web application developed using HTML, CSS, Ja
 - Support for converting between various currencies around the world!
 
 ## How to Use
-1. Clone the repository.
+1. Clone the repository `git clone https://github.com/HEMAA-C/Currency-Converter.git`
 2. Open the `cc.html` file in your web browser.
 3. Enter the amount, select the from (source) country, and choose the to (target) currency.
 4. Click the "Get Exchange Rate" button to see the converted amount.
